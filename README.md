@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="assets/readme-banner.png" width="100%" alt="Personal Expense Tracker Banner">
+</p>
 <h1 align="center">💰 Personal Expense Tracker</h1>
 
 <h3 align="center">Track Your Money. Control Your Spending. Build Better Habits.</h3>
