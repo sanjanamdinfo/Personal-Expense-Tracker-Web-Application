@@ -1,0 +1,13 @@
+# Database files
+data/*.db
+data/*.sqlite
+
+# Temporary files
+*.log
+*.tmp
+
+# VS Code settings
+.vscode/
+
+# Windows files
+Thumbs.db
